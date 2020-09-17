@@ -2,9 +2,12 @@
 
 ### I'm a Developer,Blogger
 
-.I’m currently working on my Developing Skills
+##.## I’m currently working on my Developing Skills
+
 .I’m currently learning how things are working
+
 .I’m looking to collaborate with technologies
+
 .I’m looking to Contribute more to Open Source projects
 
 - 💬 Ask me about Tech ideas
